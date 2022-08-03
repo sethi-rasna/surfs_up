@@ -11,13 +11,13 @@ We used an sqlite database to retrieve the temperature data in Oahu via queries 
 
 ### Air Temperature Results
 
-####June
+###June
 
  - The tempertures remain ideal at this time and stead around the mid 70s and low 80s
  - The average temperture is about 75 degrees 
  - Temperatures reached a max of 85 degrees and the temperatures reached a minimum of 64 degrees.
 
-####December
+###December
 
   - Temperatures remains steady in the mid-70s which is still great for a shop liek Surf'n'Shake
   - The average temperature remains about 71 degrees 
