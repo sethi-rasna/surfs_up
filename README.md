@@ -13,16 +13,22 @@ We used an sqlite database to retrieve the temperature data in Oahu via queries 
 
 #### June
 
+
  - The tempertures remain ideal at this time and stead around the mid 70s and low 80s
  - The average temperture is about 75 degrees 
  - Temperatures reached a max of 85 degrees and the temperatures reached a minimum of 64 degrees.
+
+![June Temps](https://user-images.githubusercontent.com/104734224/182735782-44fad4b8-3ce8-462c-ab71-a80a051cb1c6.png)
+
 
 #### December
 
   - Temperatures remains steady in the mid-70s which is still great for a shop liek Surf'n'Shake
   - The average temperature remains about 71 degrees 
   - The nights are cooler though, reaching around the high 50s and low 60s
-  
+
+![December Temps](https://user-images.githubusercontent.com/104734224/182735718-36d815cc-1c38-471b-9225-b835c083c822.png)
+
 ## Summary Findings:
 
   - During the day, both June and December are ideal weather conditions for a surf and an ice cream shop. June's weather is a little better, but December is good as well.
